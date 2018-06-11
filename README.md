@@ -6,7 +6,12 @@ Each file contains a basic web scraper and new files will continue to be added o
 
 Repository File Descriptions:
 
-python-scraper.py: A basic JSON web scraper that saves data in JSON format.
-auto-csv.py: A JSON web scraper that converts JSON data into a CSV file automatically.
+JSON-data-scraper.py: A basic JSON web scraper that saves data in JSON format.
+
+
+JSON-to-CSV-scraper.py: A JSON web scraper that converts JSON data into a CSV file automatically.
+
+
+html-web-scraper.py: A HTML scraper to grab data based on div elements.
 
 
