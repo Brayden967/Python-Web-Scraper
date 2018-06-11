@@ -1,0 +1,8 @@
+import requests
+import time
+import datetime
+from datetime import timedelta
+
+# importing time, datetime, and timedelta are not neccesary unless you plan on scraping dynamic date ranges.ou 
+
+Domain = "https://www.domaintoscrape.com"
